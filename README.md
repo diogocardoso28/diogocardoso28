@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer and Maker
 -------------------
 
-I've been codig for around 5 years. I'm a tech addict, so if it computes it interests me. Currently studying Computer Engeneering @IPLeiria
+I've been codig for around 5 years. I'm a tech addict, so if it computes it interests me. Currently studying Computer Engineering @IPLeiria
 
 * 🌍  I'm based in Portugal
 * 🖥️  See my portfolio at [Portfolio](http://diogocardoso28.github.io/Me/)
