@@ -7,7 +7,7 @@ Developer and Maker
 I've been codig for around 5 years. I'm a tech addict, so if it computes it interests me. Currently studying Computer Engineering @IPLeiria
 
 * 🌍  I'm based in Leiria, Portugal
-* 🖥️  See my portfolio at [Portfolio](http://diogocardoso28.github.io/Me/)
+* 🖥️  See my blog at [Blog](https://www.diogocardoso.tech/)
 * ✉️  You can contact me at [diogo.kardoso2003@live.com](mailto:diogo.kardoso2003@live.com)
 * 🤝  I'm open to collaborating on Android Projects and smart home projects
 
